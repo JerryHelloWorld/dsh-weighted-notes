@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "笔记库",
+    "description": "按权重排好、由工作区内每个会话共享的 Markdown 笔记；带一个本地编辑页面，以及一套很省 token 的命令行。",
+    "detail": "docs/DETAIL.md"
+  }
+}

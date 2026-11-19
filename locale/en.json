@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Notes library",
+    "description": "Weighted Markdown notes shared by every session in this workspace, with a local editing page and a token-cheap CLI.",
+    "detail": "docs/DETAIL.md"
+  }
+}
